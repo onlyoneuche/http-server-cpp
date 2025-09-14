@@ -8,27 +8,26 @@ I later migrated it into my own repo to learn deeper and track progress independ
 
 ## 📚 Roadmap (Next Steps)
 
-This project follows the Codecrafters HTTP challenge outline.  
-Completed steps are marked with ✅, pending ones with ⬜.
+This project follows the Codecrafters HTTP challenge outline.
 
-- ✅ Introduction
-- ✅ Repository Setup
-- ✅ Bind to a port
-- ✅ Respond with 200
-- ✅ Extract URL path
-- ⬜ Respond with body
-- ⬜ Read header
-- ⬜ Concurrent connections
-- ⬜ Return a file
-- ⬜ Read request body
-- ⬜ HTTP Compression
-  - ⬜ Compression headers
-  - ⬜ Multiple compression schemes
-  - ⬜ Gzip compression
-- ⬜ Persistent Connections
-  - ⬜ Persistent connections
-  - ⬜ Concurrent persistent connections
-  - ⬜ Connection closure
+- [x] Introduction
+- [x] Repository Setup
+- [x] Bind to a port
+- [x] Respond with 200
+- [x] Extract URL path
+- [] Respond with body
+- [] Read header
+- [] Concurrent connections
+- [] Return a file
+- [] Read request body
+- [] HTTP Compression
+  - [] Compression headers
+  - [] Multiple compression schemes
+  - [] Gzip compression
+- [] Persistent Connections
+  - [] Persistent connections
+  - [] Concurrent persistent connections
+  - [] Connection closure
 
 
 ---
