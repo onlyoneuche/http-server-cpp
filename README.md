@@ -1,4 +1,4 @@
-# HTTP Server in C++ (Learning Project)
+# HTTP Server in C++
 
 This is a step-by-step implementation of an HTTP server in C++,
 originally started as part of the [Codecrafters HTTP Server challenge](https://codecrafters.io).
