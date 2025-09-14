@@ -15,19 +15,19 @@ This project follows the Codecrafters HTTP challenge outline.
 - [x] Bind to a port
 - [x] Respond with 200
 - [x] Extract URL path
-- [] Respond with body
-- [] Read header
-- [] Concurrent connections
-- [] Return a file
-- [] Read request body
-- [] HTTP Compression
-  - [] Compression headers
-  - [] Multiple compression schemes
-  - [] Gzip compression
-- [] Persistent Connections
-  - [] Persistent connections
-  - [] Concurrent persistent connections
-  - [] Connection closure
+- [ ] Respond with body
+- [ ] Read header
+- [ ] Concurrent connections
+- [ ] Return a file
+- [ ] Read request body
+- [ ] HTTP Compression
+  - [ ] Compression headers
+  - [ ] Multiple compression schemes
+  - [ ] Gzip compression
+- [ ] Persistent Connections
+  - [ ] Persistent connections
+  - [ ] Concurrent persistent connections
+  - [ ] Connection closure
 
 
 ---
