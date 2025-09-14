@@ -6,11 +6,30 @@ I later migrated it into my own repo to learn deeper and track progress independ
 
 ---
 
-## 🚀 Features Implemented
-- [x] Create and bind a TCP socket
-- [x] Accept client connections
-- [x] Parse the HTTP request line
-- [x] Return `200 OK` for `/`, `404 Not Found` otherwise
+## 📚 Roadmap (Next Steps)
+
+This project follows the Codecrafters HTTP challenge outline.  
+Completed steps are marked with ✅, pending ones with ⬜.
+
+- ✅ Introduction
+- ✅ Repository Setup
+- ✅ Bind to a port
+- ✅ Respond with 200
+- ✅ Extract URL path
+- ⬜ Respond with body
+- ⬜ Read header
+- ⬜ Concurrent connections
+- ⬜ Return a file
+- ⬜ Read request body
+- ⬜ HTTP Compression
+  - ⬜ Compression headers
+  - ⬜ Multiple compression schemes
+  - ⬜ Gzip compression
+- ⬜ Persistent Connections
+  - ⬜ Persistent connections
+  - ⬜ Concurrent persistent connections
+  - ⬜ Connection closure
+
 
 ---
 
